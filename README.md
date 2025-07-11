@@ -1,0 +1,1 @@
+This is my template project guiding me in learning Software engineering as a PLP student
